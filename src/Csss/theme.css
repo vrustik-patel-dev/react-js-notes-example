@@ -1,0 +1,19 @@
+:root {
+    --main-color: #1b1922;
+    --secondary-color: #232227;
+    --background-color: #27262a;
+    --third-color: #313036;
+    --light-color: #3f3d45;
+    --elight-color: #aba9b0;
+    --ulight-color: #efedf3;
+
+    --login-bg: rgb(255,255,255);
+
+    --text-color: white;
+
+    --text-family: 'Sansita Swashed', cursive;
+}
+
+* {
+    font-family: var(--text-family);
+}
